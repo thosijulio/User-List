@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="item_user_photo_description">photo</string>
+    <string name="user_photo_description">photo</string>
+    <string name="user_button_description">Voltar</string>
+    <string name="user_email_label">E-mail:</string>
+    <string name="user_address_label">Endereco:</string>
+    <string name="user_phone_label">Telefone:</string>
+    <string name="user_birth_date_label">Data de Nascimento:</string>
+</resources>
